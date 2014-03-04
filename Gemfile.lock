@@ -27,12 +27,9 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.1)
       tzinfo (~> 1.1)
-<<<<<<< HEAD
     annotate (2.6.1)
       activerecord (>= 2.3.0)
       rake (>= 0.8.7)
-=======
->>>>>>> 62c726c0f8b933fc6dda44052d9726846785994f
     arel (5.0.0)
     atomic (1.1.15)
     builder (3.2.2)
@@ -125,10 +122,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-<<<<<<< HEAD
   annotate
-=======
->>>>>>> 62c726c0f8b933fc6dda44052d9726846785994f
   coffee-rails (~> 4.0.0)
   jbuilder (~> 2.0)
   jquery-rails
